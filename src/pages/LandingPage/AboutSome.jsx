@@ -27,7 +27,7 @@ export const AboutSome = () => {
         <Text  color='#515151' fontSize={'sm'}>Are the long queues at hospitals and clinics putting you off? At Netmeds.com, we realize that your time and health are precious. Consult with top-notch doctors online 24/7 at your convenience through our online doctor consultation service!</Text>
         <Text m='20px 0' fontWeight={'600'}>Why Choose Netmeds?</Text>
         <UnorderedList ml='40px' color='#515151' fontSize={'sm'}>
-            <ListItem>100+ years of experience in the pharma sector</ListItem>
+            
             <ListItem>Vital medicines delivered across the country</ListItem>
             <ListItem>Trust of more than 4 million+ loyal customers</ListItem>
             <ListItem>Our team is made up of highly experienced pharmacists & healthcare professionals</ListItem>
